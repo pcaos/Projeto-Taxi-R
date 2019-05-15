@@ -1,6 +1,7 @@
 # Projeto-Taxi-R
 Projeto de precificação de táxis de Nova York  utilizando linguagem de programação R baseado em uma base do Google de 2016.
-Na predição fazemos uma analise dos horários de pico do trânsito, tempo de duração das corridas e distância percorrida e como isso influência na precificação da corrida de táxi.
+
+Na predição fazemos uma análise dos horários de pico do trânsito, tempo de duração das corridas e distância percorrida e como isso influência na precificação da corrida de táxi.
 
 Campos do dataset:
 
