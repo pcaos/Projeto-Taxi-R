@@ -2,7 +2,7 @@
 Projeto de precificação de táxis de Nova York  utilizando linguagem de programação R baseado em uma base do Google de 2016.
 Na predição fazemos uma analise dos horários de pico do trânsito, tempo de duração das corridas e distância percorrida e como isso influência na precificação da corrida de táxi.
 
---------------------------------Campos do dataset:---------------------------------<br/>
+Campos do dataset:
 id – chave única de cada corrida
 vendor_id – Código do provedor da informação
 pickup_datetime – Hora que a corrida se iniciou
@@ -16,5 +16,3 @@ store_and_fwd_flag – Indicada se o veículo armazenou o dado
 temporariamente antes de sincronizar com a central (ou seja, veículo sem
 conexão com a internet)
 trip_duration – Duração da corrida, em segundos
-------------------------------------------------------------------------------------
-Trabalho realizado na universidade FIAP para conclusão do curso programação em R
