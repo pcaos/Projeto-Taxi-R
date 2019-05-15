@@ -3,10 +3,15 @@ Projeto de precificação de táxis de Nova York  utilizando linguagem de progra
 Na predição fazemos uma analise dos horários de pico do trânsito, tempo de duração das corridas e distância percorrida e como isso influência na precificação da corrida de táxi.
 
 Campos do dataset:
+
 id – chave única de cada corrida
+
 vendor_id – Código do provedor da informação
+
 pickup_datetime – Hora que a corrida se iniciou
+
 dropoff_datetime – Hora que a corrida se encerrou
+
 passenger_count – Quantidade de passageiros na corrida
 pickup_longitude – Longitude do início da corrida
 pickup_latitude – Latitude do início da corrida
