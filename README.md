@@ -3,7 +3,6 @@ Projeto de precificação de táxis de Nova York  utilizando linguagem de progra
 Na predição fazemos uma analise dos horários de pico do trânsito, tempo de duração das corridas e distância percorrida e como isso influência na precificação da corrida de táxi.
 
 Campos do dataset:
-
 id – chave única de cada corrida
 
 vendor_id – Código do provedor da informação
